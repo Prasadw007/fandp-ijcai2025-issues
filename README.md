@@ -5,7 +5,7 @@ IJCAI 2025 – Community Issue Tracker
 
 This repository summarises the open questions I encountered while trying to reproduce the paper.
 It **does NOT** provide code or checkpoints: independent re-implementations have so far failed to match the published metrics, and the authors **have NOT** replied to my **TWO** email requests for the original code and pretrained weights.
-Below we only list the **confirmed / outstanding problems** so that future readers can quickly understand why the work is currently **untrusted**.
+Below, I summarize the main challenges encountered during the review and reproduction process.
 
 ---
 
